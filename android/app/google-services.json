@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962258677759",
+    "project_id": "ktu-assist-4db4a",
+    "storage_bucket": "ktu-assist-4db4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962258677759:android:de06b639d6b4f46dedc1ca",
+        "android_client_info": {
+          "package_name": "com.example.ktu_assist_admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALdzvXfJDqD9mUntLUW1Lx5flAHZexxuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962258677759:android:010ba5cf7b34a6bcedc1ca",
+        "android_client_info": {
+          "package_name": "in.ktuassist.ktu_assist_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALdzvXfJDqD9mUntLUW1Lx5flAHZexxuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

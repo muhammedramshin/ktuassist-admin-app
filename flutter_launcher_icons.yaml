@@ -1,0 +1,18 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/icons/ktu-assist-admin.png
+  adaptive_icon_background: '#101112'
+  adaptive_icon_foreground: assets/icons/ktu-assist-admin.png
+  adaptive_icon_foreground_inset: 20
+  remove_alpha_ios: true
+  background_color_ios: '#101112'
+  web:
+    generate: true
+    background_color: '#101112'
+    theme_color: '#FFE000'
+  windows:
+    generate: true
+    icon_size: 256
+  macos:
+    generate: true
